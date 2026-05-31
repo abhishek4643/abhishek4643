@@ -63,22 +63,6 @@
 </td>
 <td width="52%" valign="top">
 
-```python
-class AbhishekPerumalla:
-    role    = "AI / ML Engineer"
-    focus   = ["Computer Vision", "Deep Learning", "NLP"]
-    stack   = ["PyTorch", "OpenCV", "Flask", "Streamlit"]
-    wins    = [
-        "🥇 ACUMEN 2026 — 1st Prize (National)",
-        "🥈 MakeX 2026 — Runner-Up (National)",
-        "🏆 Vyoma Hackathon — TechSurge2k25",
-        "🏆 HackSavvy-25 — National Level",
-    ]
-    percentile = "97.03 — Naukri Young Turks 2025"
-    seeking = "AI Internships & Research Collaborations"
-    coffee  = True  # non-negotiable ☕
-```
-
 </td>
 </tr>
 </table>
