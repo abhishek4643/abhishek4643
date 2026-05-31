@@ -4,17 +4,17 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:090b0d,40:0c0f12,70:1a0533,100:090b0d&height=280&section=header&text=PERUMALLA%20ABHISHEK&fontSize=56&fontColor=7F5AF0&fontAlignY=42&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20Specialist%20%7C%20Cybersecurity%20Enthusiast&descAlignY=63&descSize=17&descColor=00F0FF&stroke=7F5AF0&strokeWidth=2&animation=fadeIn" width="100%" alt="Perumalla Abhishek Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050810,50:0a1628,100:050810&height=260&section=header&text=PERUMALLA%20ABHISHEK&fontSize=60&fontColor=00E5FF&fontAlignY=50&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20Specialist&descAlignY=70&descSize=18&descColor=FF2D78&stroke=00E5FF&strokeWidth=1&animation=fadeIn" width="100%" alt="Perumalla Abhishek Banner"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=7F5AF0&center=true&vCenter=true&width=650&height=55&lines=%E2%96%B6+Building+AI+Solutions+%F0%9F%A4%96;%E2%96%B6+Training+Deep+Learning+Models+%F0%9F%A7%A0;%E2%96%B6+Securing+Digital+Systems+%F0%9F%9B%A1%EF%B8%8F;%E2%96%B6+Competing+in+Hackathons+%F0%9F%8F%86;%E2%96%B6+Specializing+in+Computer+Vision+%F0%9F%91%81%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=650&height=55&lines=%E2%96%B6+Building+AI+Solutions+%F0%9F%A4%96;%E2%96%B6+Training+Deep+Learning+Models+%F0%9F%A7%A0;%E2%96%B6+Competing+in+Hackathons+%F0%9F%8F%86;%E2%96%B6+Specializing+in+Computer+Vision+%F0%9F%91%81%EF%B8%8F)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhishek4643&style=for-the-badge&color=7F5AF0&label=PROFILE+VIEWS&labelColor=0c0f12)
+![Profile Views](https://komarev.com/ghpvc/?username=abhishek4643&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS&labelColor=050810)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/abhishek4643?style=for-the-badge&color=00F0FF&labelColor=0c0f12&label=FOLLOWERS)
+![GitHub followers](https://img.shields.io/github/followers/abhishek4643?style=for-the-badge&color=FF2D78&labelColor=050810&label=FOLLOWERS)
 
 </div>
 
@@ -24,11 +24,11 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/GMAIL-abhishekp.perumalla%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c0f12)](mailto:abhishekp.perumalla@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c0f12)](https://www.linkedin.com/in/abhishek-perumalla-a1ab57251)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Live%20Site-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0c0f12)](https://portfolio-three-omega-ahkmg9l6l4.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GITHUB-abhishek4643-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0c0f12)](https://github.com/abhishek4643)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0c0f12)](https://leetcode.com/abhishek4643)
+[![Gmail](https://img.shields.io/badge/GMAIL-abhishekp.perumalla%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050810)](mailto:abhishekp.perumalla@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050810)](https://www.linkedin.com/in/abhishek-perumalla-a1ab57251)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Live%20Site-00E5FF?style=for-the-badge&logo=vercel&logoColor=00E5FF&labelColor=050810)](https://portfolio-three-omega-ahkmg9l6l4.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GITHUB-abhishek4643-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=050810)](https://github.com/abhishek4643)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=050810)](https://leetcode.com/abhishek4643)
 
 </div>
 
@@ -47,7 +47,7 @@
   "name"      : "Perumalla Abhishek",
   "location"  : "Hyderabad, India 🇮🇳",
   "education" : "B.Tech CSE — Guru Nanak Institutions Technical Campus (2026)",
-  "focus"     : ["AI & Machine Learning", "Computer Vision", "Cybersecurity"],
+  "focus"     : ["AI & Machine Learning", "Computer Vision"],
   "stack"     : ["PyTorch", "OpenCV", "Flask", "Streamlit", "Python"],
   "status"    : "🟢 Open to Internships & Hackathon Collaborations"
 }
@@ -65,23 +65,23 @@
 
 [![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark)](https://skillicons.dev)
 &nbsp;
-![YOLO](https://img.shields.io/badge/YOLO-Ultralytics-7F5AF0?style=flat-square&labelColor=0c0f12)
-![CNN](https://img.shields.io/badge/CNN-Deep_Learning-00F0FF?style=flat-square&labelColor=0c0f12)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=0c0f12)
+![YOLO](https://img.shields.io/badge/YOLO-Ultralytics-00E5FF?style=flat-square&labelColor=050810)
+![CNN](https://img.shields.io/badge/CNN-Deep_Learning-FF2D78?style=flat-square&labelColor=050810)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=050810)
 
 **Languages & Web**
 
 [![Skills](https://skillicons.dev/icons?i=python,c,flask,html,css&theme=dark)](https://skillicons.dev)
 &nbsp;
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white&labelColor=0c0f12)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&labelColor=0c0f12)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white&labelColor=050810)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&labelColor=050810)
 
 **Tools & Platforms**
 
 [![Skills](https://skillicons.dev/icons?i=git,github,linux,vscode,mysql,docker,aws&theme=dark)](https://skillicons.dev)
 &nbsp;
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white&labelColor=0c0f12)
-![Nmap](https://img.shields.io/badge/Nmap-Security-0E83CD?style=flat-square&labelColor=0c0f12)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white&labelColor=050810)
+![Nmap](https://img.shields.io/badge/Nmap-Security-00E5FF?style=flat-square&labelColor=050810)
 
 </div>
 
@@ -95,7 +95,7 @@
 
 </div>
 
-**🏥 Purva Laksana — AI Healthcare Companion** &nbsp; ![Jul 2025](https://img.shields.io/badge/Jul_2025-7F5AF0?style=flat-square&labelColor=0c0f12)
+**🏥 Purva Laksana — AI Healthcare Companion** &nbsp; ![Jul 2025](https://img.shields.io/badge/Jul_2025-00E5FF?style=flat-square&labelColor=050810)
 
 > 🏆 Vyoma Hackathon (TechSurge2k25) · BVRIT · Health & Well-Being Domain
 
@@ -105,7 +105,7 @@ Multi-disease early prediction system using **computer vision for medical image 
 
 ---
 
-**🎵 Emotion-Based Music Recommender** &nbsp; ![Oct 2025](https://img.shields.io/badge/Oct_2025-7F5AF0?style=flat-square&labelColor=0c0f12)
+**🎵 Emotion-Based Music Recommender** &nbsp; ![Oct 2025](https://img.shields.io/badge/Oct_2025-00E5FF?style=flat-square&labelColor=050810)
 
 > 🏆 HackSavvy-25 National Hackathon · MGIT · 24-Hour · 200+ Teams
 
@@ -115,7 +115,7 @@ Real-time facial emotion recognition with a **custom CNN achieving 95% accuracy*
 
 ---
 
-**🛡️ Automated Network Reconnaissance — Nmap & Bash** &nbsp; ![Mar 2025](https://img.shields.io/badge/Mar_2025-7F5AF0?style=flat-square&labelColor=0c0f12)
+**🛡️ Automated Network Reconnaissance — Nmap & Bash** &nbsp; ![Mar 2025](https://img.shields.io/badge/Mar_2025-00E5FF?style=flat-square&labelColor=050810)
 
 Modular Bash tool automating **Nmap reconnaissance** across quick/normal/full scan modes with multi-format output (text/XML), OS detection, service versioning, and NSE vulnerability scanning.
 
@@ -149,19 +149,19 @@ Modular Bash tool automating **Nmap reconnaissance** across quick/normal/full sc
 ### `⬡ GITHUB STATISTICS`
 
 <a href="https://github.com/abhishek4643">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=abhishek4643&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0c0f12&border_color=7F5AF0&title_color=7F5AF0&icon_color=00F0FF&text_color=ccccff&hide_border=false"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek4643&layout=compact&langs_count=8&bg_color=0c0f12&border_color=7F5AF0&title_color=7F5AF0&text_color=ccccff&hide_border=false"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=abhishek4643&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=050810&border_color=00E5FF&title_color=00E5FF&icon_color=FF2D78&text_color=cceeff&hide_border=false"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek4643&layout=compact&langs_count=8&bg_color=050810&border_color=00E5FF&title_color=00E5FF&text_color=cceeff&hide_border=false"/>
 </a>
 
 <br/><br/>
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=abhishek4643&theme=dark&background=0c0f12&border=7F5AF0&ring=7F5AF0&fire=00F0FF&currStreakNum=ccccff&sideNums=ccccff&currStreakLabel=7F5AF0&sideLabels=00F0FF&dates=888888" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=abhishek4643&theme=dark&background=050810&border=00E5FF&ring=00E5FF&fire=FF2D78&currStreakNum=cceeff&sideNums=cceeff&currStreakLabel=00E5FF&sideLabels=FF2D78&dates=888888" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek4643&bg_color=0c0f12&color=7F5AF0&line=00F0FF&point=ffffff&area=true&area_color=1a0533&border_color=7F5AF0&custom_title=Contribution%20Activity&radius=6" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek4643&bg_color=050810&color=00E5FF&line=FF2D78&point=ffffff&area=true&area_color=0a1628&border_color=00E5FF&custom_title=Contribution%20Activity&radius=6" width="100%"/>
 
 <br/>
 
@@ -193,6 +193,6 @@ Modular Bash tool automating **Nmap reconnaissance** across quick/normal/full sc
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0f12,50:1a0533,100:7F5AF0&height=110&section=footer&text=Thanks%20for%20visiting!%20Let%27s%20build%20the%20future%20together%20%F0%9F%9A%80&fontSize=14&fontColor=00F0FF&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050810,50:0a1628,100:00E5FF&height=110&section=footer&text=Thanks%20for%20visiting!%20Let%27s%20build%20the%20future%20together%20%F0%9F%9A%80&fontSize=14&fontColor=FF2D78&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
