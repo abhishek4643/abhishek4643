@@ -165,10 +165,11 @@ Modular Bash tool automating **Nmap recon** across quick/normal/full modes. Mult
 ### `📊 GITHUB STATISTICS`
 
 <!-- Stats Cards -->
-<a href="https://github.com/abhishek4643">
-  <img height="178em" src="https://github-readme-stats.vercel.app/api?username=abhishek4643&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=FF2D78&text_color=cceeff"/>
-  <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek4643&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=cceeff"/>
-</a>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhishek4643&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishek4643&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 <br/><br/>
 
