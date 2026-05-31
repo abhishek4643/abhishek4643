@@ -36,18 +36,17 @@
 
 <!-- ◈ ABOUT ME ◈ -->
 
-```
+<div align="center">
 
-```json
-{
-  "name"      : "Perumalla Abhishek",
-  "location"  : "Hyderabad, India 🇮🇳",
-  "education" : "B.Tech CSE — Guru Nanak Institutions Technical Campus (2026)",
-  "focus"     : ["AI & Machine Learning", "Computer Vision"],
-  "stack"     : ["PyTorch", "OpenCV", "Flask", "Streamlit", "Python"],
-  "status"    : "🟢 Open to Internships & Hackathon Collaborations"
-}
-```
+### `⬡ ABOUT ME`
+
+</div>
+
+🎓 Final-year **B.Tech CSE** student at *Guru Nanak Institutions Technical Campus, Hyderabad* (2026), specializing in **AI, Machine Learning, and Computer Vision**.
+
+🤖 I build production-ready AI systems — from real-time computer vision pipelines and deep learning models to NLP-powered healthcare applications — using **PyTorch, OpenCV, Flask, and Streamlit**.
+
+🏆 Led teams at **national-level hackathons**, shipped projects under pressure, and consistently placed at the top. I don't just compete — I deliver.
 
 ---
 
@@ -138,7 +137,7 @@ Modular Bash tool automating **Nmap reconnaissance** across quick/normal/full sc
 
 ---
 
-<!-- ◈ GITHUB STATS ◈ -->
+<!-- ◈ GITHUB STATISTICS ◈ -->
 
 <div align="center">
 
@@ -159,13 +158,17 @@ Modular Bash tool automating **Nmap reconnaissance** across quick/normal/full sc
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek4643&bg_color=050810&color=00E5FF&line=FF2D78&point=ffffff&area=true&area_color=0a1628&border_color=00E5FF&custom_title=Contribution%20Activity&radius=6" width="100%"/>
 
-<br/>
+<br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishek4643/abhishek4643/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishek4643/abhishek4643/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/abhishek4643/abhishek4643/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+<!-- ◈ TROPHIES — replaces snake ◈ -->
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhishek4643&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" width="100%" alt="GitHub Trophies"/>
+
+<br/><br/>
+
+<!-- ◈ 3D CONTRIBUTION CALENDAR ◈ -->
+
+<img src="https://github-profile-3d-contrib.vercel.app/api/top/abhishek4643.svg" width="100%" alt="3D Contribution Calendar"/>
 
 </div>
 
@@ -173,18 +176,17 @@ Modular Bash tool automating **Nmap reconnaissance** across quick/normal/full sc
 
 <!-- ◈ CONTACT ◈ -->
 
-```
-
-  [✓] Email      →  abhishekp.perumalla@gmail.com
-  [✓] Phone      →  +91-8919415774
-  [✓] LinkedIn   →  linkedin.com/in/abhishek-perumalla-a1ab57251
-  [✓] Portfolio  →  portfolio-three-omega-ahkmg9l6l4.vercel.app
-  [✓] Location   →  Hyderabad, India
-
-  >> Handshake initiated. Awaiting your response...
-```
-
 <div align="center">
+
+### `⬡ LET'S CONNECT`
+
+*Open to internships, AI/ML collaborations, and hackathon teams.*
+
+[![Email](https://img.shields.io/badge/Email-abhishekp.perumalla%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050810)](mailto:abhishekp.perumalla@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-00E5FF?style=for-the-badge&logo=vercel&logoColor=00E5FF&labelColor=050810)](https://portfolio-three-omega-ahkmg9l6l4.vercel.app/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050810)](https://www.linkedin.com/in/abhishek-perumalla-a1ab57251)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050810,50:0a1628,100:00E5FF&height=110&section=footer&text=Thanks%20for%20visiting!%20Let%27s%20build%20the%20future%20together%20%F0%9F%9A%80&fontSize=14&fontColor=FF2D78&fontAlignY=65&animation=fadeIn" width="100%"/>
 
