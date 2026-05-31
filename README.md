@@ -51,17 +51,31 @@
 
 <table align="center">
 <tr>
-<td width="48%" valign="top">
+<td width="45%" valign="top">
 
-🎓 **Final-year B.Tech CSE** · GNITC, Hyderabad `(2026)`  
-🤖 **AI/ML Engineer** — Computer Vision & NLP  
-🏆 **3× National Hackathon Champion**  
-📦 I ship real AI — research → prototype → production  
-☕ Fueled by code, caffeine, and curiosity  
-🌐 Open to **internships**, collabs & hackathon teams  
+🎓 **Final-year B.Tech CSE** · GNITC, Hyderabad (2026)<br/>
+🤖 **AI/ML Engineer** — Computer Vision & NLP<br/>
+🏆 **3× National Hackathon Champion**<br/>
+📦 Research → Prototype → Production<br/>
+☕ Fueled by code, caffeine, and curiosity<br/>
+🌐 Open to **internships**, collabs & hackathon teams
 
 </td>
-<td width="52%" valign="top">
+<td width="55%" valign="top">
+
+<pre><code class="language-python">class AbhishekPerumalla:
+    role    = "AI / ML Engineer"
+    focus   = ["Computer Vision", "Deep Learning", "NLP"]
+    stack   = ["PyTorch", "OpenCV", "Flask", "Streamlit"]
+    wins    = [
+        "🥇 ACUMEN 2026 — 1st Prize (National)",
+        "🥈 MakeX 2026 — Runner-Up (National)",
+        "🏆 Vyoma Hackathon — TechSurge2k25",
+        "🏆 HackSavvy-25 — National Level",
+    ]
+    percentile = "97.03 — Naukri Young Turks 2025"
+    seeking    = "AI Internships & Research Collab"
+    coffee     = True  # non-negotiable ☕</code></pre>
 
 </td>
 </tr>
@@ -243,11 +257,7 @@ Something big is coming in **AI + Robotics / Healthcare**. Follow to stay update
 
 <br/><br/>
 
-<!-- ◈ DAILY PROGRAMMING QUOTE ◈ -->
 
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<br/><br/>
 
 <!-- ◈ SNAKE CONTRIBUTION ANIMATION ◈ -->
 
