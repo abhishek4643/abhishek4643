@@ -41,34 +41,6 @@
 
 ---
 
-<!-- ◈ ABOUT ME ◈ -->
-
-<div align="center">
-
-### `⚡ WHO AM I?`
-
-</div>
-
-<div align="center">
-
-<pre><code class="language-python">class AbhishekPerumalla:
-    role    = "AI / ML Engineer"
-    focus   = ["Computer Vision", "Deep Learning", "NLP"]
-    stack   = ["PyTorch", "OpenCV", "Flask", "Streamlit"]
-    wins    = [
-        "🥇 ACUMEN 2026 — 1st Prize (National)",
-        "🥈 MakeX 2026 — Runner-Up (National)",
-        "🏆 Vyoma Hackathon — TechSurge2k25",
-        "🏆 HackSavvy-25 — National Level",
-    ]
-    percentile = "97.03 — Naukri Young Turks 2025"
-    seeking    = "AI Internships & Research Collab"
-    coffee     = True  # non-negotiable ☕</code></pre>
-
-</div>
-
----
-
 <!-- ◈ NOW — CURRENT STATUS ◈ -->
 
 <div align="center">
@@ -126,17 +98,13 @@
 
 ---
 
-<!-- ◈ FEATURED PROJECTS ◈ -->
+<!-- ◈ MY PROJECTS ◈ -->
 
 <div align="center">
 
-### `🚀 FEATURED PROJECTS`
+### `🚀 MY PROJECTS`
 
 </div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 **🏥 Purva Laksana — AI Healthcare Companion**
 &nbsp; ![Jul 2025](https://img.shields.io/badge/Jul_2025-00E5FF?style=flat-square&labelColor=0d1117) ![Winner](https://img.shields.io/badge/🏆_Winner-FFD700?style=flat-square&labelColor=0d1117)
@@ -147,8 +115,7 @@ Multi-disease prediction via **CV medical imaging** + heart monitoring + **multi
 
 `PyTorch` · `OpenCV` · `Streamlit` · `NLP`
 
-</td>
-<td width="50%" valign="top">
+---
 
 **🎵 Emotion-Based Music Recommender**
 &nbsp; ![Mar 2025](https://img.shields.io/badge/Mar_2025-00E5FF?style=flat-square&labelColor=0d1117) ![95% Acc](https://img.shields.io/badge/95%25_Accuracy-FF2D78?style=flat-square&labelColor=0d1117)
@@ -159,10 +126,7 @@ Real-time facial emotion → custom **CNN (95% acc)** across 7 classes → YouTu
 
 `Python` · `Flask` · `OpenCV` · `CNN`
 
-</td>
-</tr>
-<tr>
-<td width="100%" valign="top">
+---
 
 **🛡️ Automated Network Recon — Nmap & Bash**
 &nbsp; ![Mar 2025](https://img.shields.io/badge/Mar_2025-00E5FF?style=flat-square&labelColor=0d1117)
@@ -170,10 +134,6 @@ Real-time facial emotion → custom **CNN (95% acc)** across 7 classes → YouTu
 Modular Bash tool automating **Nmap recon** across quick/normal/full modes. Multi-format output, OS detection, service versioning & NSE vulnerability scanning.
 
 `Bash` · `Nmap` · `Linux`
-
-</td>
-</tr>
-</table>
 
 ---
 
