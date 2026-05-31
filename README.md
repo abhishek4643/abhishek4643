@@ -12,7 +12,7 @@
 
 <!-- ◈ TERMINAL ANIMATION ◈ -->
 
-<img src="assets/terminal.svg" width="750" alt="Terminal Animation"/>
+<img src="assets/terminal-typing.svg" width="100%" alt="Terminal Animation"/>
 
 <br/>
 
@@ -49,19 +49,7 @@
 
 </div>
 
-<table align="center">
-<tr>
-<td width="45%" valign="top">
-
-🎓 **Final-year B.Tech CSE** · GNITC, Hyderabad (2026)<br/>
-🤖 **AI/ML Engineer** — Computer Vision & NLP<br/>
-🏆 **3× National Hackathon Champion**<br/>
-📦 Research → Prototype → Production<br/>
-☕ Fueled by code, caffeine, and curiosity<br/>
-🌐 Open to **internships**, collabs & hackathon teams
-
-</td>
-<td width="55%" valign="top">
+<div align="center">
 
 <pre><code class="language-python">class AbhishekPerumalla:
     role    = "AI / ML Engineer"
@@ -77,9 +65,7 @@
     seeking    = "AI Internships & Research Collab"
     coffee     = True  # non-negotiable ☕</code></pre>
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
