@@ -10,9 +10,9 @@
 
 <br/>
 
-<!-- ◈ TERMINAL-STYLE TYPING ANIMATION ◈ -->
+<!-- ◈ TERMINAL ANIMATION ◈ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2200&pause=800&color=00E5FF&center=true&vCenter=true&width=750&height=56&lines=%24+python+train.py+--model+ResNet50+--epochs+100;%3E+Accuracy%3A+95.3%25+%7C+Loss%3A+0.021+%7C+Status%3A+DEPLOYED+%E2%9C%94;%24+./run_hackathon.sh+--team+lead+--time+24h;%3E+Result%3A+WINNER+%F0%9F%8F%86+%7C+3%C3%97+National+Champion;%24+whoami+--full;%3E+AI%2FML+Engineer+%7C+Open+to+Internships+%26+Collabs)](https://git.io/typing-svg)
+<img src="assets/terminal.svg" width="750" alt="Terminal Animation"/>
 
 <br/>
 
@@ -176,7 +176,7 @@ Real-time facial emotion → custom **CNN (95% acc)** across 7 classes → YouTu
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 **🛡️ Automated Network Recon — Nmap & Bash**
 &nbsp; ![Mar 2025](https://img.shields.io/badge/Mar_2025-00E5FF?style=flat-square&labelColor=0d1117)
@@ -184,16 +184,6 @@ Real-time facial emotion → custom **CNN (95% acc)** across 7 classes → YouTu
 Modular Bash tool automating **Nmap recon** across quick/normal/full modes. Multi-format output, OS detection, service versioning & NSE vulnerability scanning.
 
 `Bash` · `Nmap` · `Linux`
-
-</td>
-<td width="50%" valign="top">
-
-**🤖 Next Project — Stealth Mode** 👀
-&nbsp; ![2026](https://img.shields.io/badge/2026-In_Progress-FF2D78?style=flat-square&labelColor=0d1117)
-
-Something big is coming in **AI + Robotics / Healthcare**. Follow to stay updated when it drops.
-
-[![Follow](https://img.shields.io/github/followers/abhishek4643?label=Follow+for+Updates&style=flat-square&color=00E5FF&labelColor=0d1117)](https://github.com/abhishek4643)
 
 </td>
 </tr>
@@ -244,18 +234,7 @@ Something big is coming in **AI + Robotics / Healthcare**. Follow to stay update
 
 <br/><br/>
 
-<!-- ◈ GITHUB METRICS — Languages, Habits & Isometric Calendar ◈
-     Auto-generated daily by .github/workflows/metrics.yml         -->
 
-<img src="github-metrics.svg" width="100%" alt="GitHub Metrics — Languages · Habits · Calendar"/>
-
-<br/><br/>
-
-<!-- ◈ GITHUB METRICS — Achievement Badges ◈ -->
-
-<img src="github-metrics-achievements.svg" width="100%" alt="GitHub Achievement Badges"/>
-
-<br/><br/>
 
 
 
