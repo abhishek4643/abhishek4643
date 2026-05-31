@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="90" viewBox="0 0 900 90">
+  <defs>
+    <linearGradient id="glow" x1="0" x2="1">
+      <stop offset="0%" stop-color="#00d1ff" stop-opacity="0.18"/>
+      <stop offset="50%" stop-color="#00d1ff" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#00d1ff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .bg { fill: #0b0f14; }
+    .label { font: 700 14px "Segoe UI", "Helvetica Neue", Arial, sans-serif; fill: #6fd6ff; letter-spacing: 1px; }
+    .prompt { font: 600 18px "Consolas", "Courier New", monospace; fill: #9adfff; }
+    .text { font: 600 20px "Consolas", "Courier New", monospace; fill: #d7f6ff; }
+    .cursor { animation: blink 0.9s steps(2, start) infinite; }
+    .scan { animation: scan 4s linear infinite; }
+    @keyframes blink { to { opacity: 0; } }
+    @keyframes scan {
+      0% { transform: translateY(-30px); opacity: 0; }
+      10% { opacity: 0.15; }
+      60% { opacity: 0.12; }
+      100% { transform: translateY(110px); opacity: 0; }
+    }
+  </style>
+
+  <rect class="bg" width="900" height="90" rx="8"/>
+  <rect x="0" y="0" width="900" height="90" fill="url(#glow)"/>
+  <rect x="0" y="-30" width="900" height="20" fill="#16c6ff" opacity="0.2" class="scan"/>
+
+  <text x="18" y="24" class="label">TERMINAL ANIMATION</text>
+
+  <text x="18" y="56" class="prompt">$</text>
+  <text x="36" y="56" class="text">
+    <tspan>
+      <animate attributeName="textContent"
+               dur="12s"
+               repeatCount="indefinite"
+               values="
+Machine Learning Specialist;
+AI / ML Engineer;
+Computer Vision | Deep Learning;
+Hackathon Champion
+               " />
+    </tspan>
+    <tspan class="cursor">|</tspan>
+  </text>
+</svg>
