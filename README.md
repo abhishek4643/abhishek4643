@@ -4,221 +4,159 @@
 
 <div align="center">
 
-<!-- ◈ ANIMATED BANNER ◈ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1628,100:00E5FF&height=260&section=header&text=PERUMALLA%20ABHISHEK&fontSize=62&fontColor=ffffff&fontAlignY=42&desc=AI%20%2F%20ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Hackathon%20Champion&descAlignY=64&descSize=16&descColor=00E5FF&animation=fadeIn" width="100%"/>
+<!-- ◈ ANIMATED HEADER ◈ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:6366f1&height=250&section=header&text=ABHISHEK%20PERUMALLA&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=AI/ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Hackathon%20Champion&descAlignY=60&descSize=16&descColor=818cf8&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<!-- ◈ TERMINAL ANIMATION ◈ -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Specialist;AI+%2F+ML+Engineer;Computer+Vision+%7C+Deep+Learning;Hackathon+Champion" alt="Terminal Animation" />
-</p>
+<!-- ◈ TYPING TERMINAL ◈ -->
+<a href="https://portfolio-three-omega-ahkmg9l6l4.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=800&lines=Building+Next-Gen+AI+Solutions;Machine+Learning+%26+Computer+Vision;Full-Stack+Web+Development;Turning+Ideas+Into+Production-Ready+Code" alt="Terminal Animation" />
+</a>
 
 <br/>
 
 <!-- ◈ LIVE BADGES ◈ -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhishek4643&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/abhishek4643?style=for-the-badge&color=ec4899&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/abhishek4643?affiliations=OWNER&style=for-the-badge&color=eab308&labelColor=0d1117&label=STARS" alt="Stars"/>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhishek4643&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS&labelColor=0d1117)
-&nbsp;
-![Followers](https://img.shields.io/github/followers/abhishek4643?style=for-the-badge&color=FF2D78&labelColor=0d1117&label=FOLLOWERS)
-&nbsp;
-![Stars](https://img.shields.io/github/stars/abhishek4643?affiliations=OWNER&style=for-the-badge&color=FFD700&labelColor=0d1117&label=STARS)
-
-</div>
-
----
-
-<!-- ◈ SOCIAL LINKS ◈ -->
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-abhishekp.perumalla%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:abhishekp.perumalla@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/abhishek-perumalla-a1ab57251)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-00E5FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=00E5FF)](https://portfolio-three-omega-ahkmg9l6l4.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116)](https://leetcode.com/abhishek4643)
+<!-- ◈ QUICK LINKS ◈ -->
+<p align="center">
+  <a href="mailto:abhishekp.perumalla@gmail.com"><img src="https://img.shields.io/badge/Email-abhishekp.perumalla%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/abhishek-perumalla-a1ab57251"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
+  <a href="https://portfolio-three-omega-ahkmg9l6l4.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-6366f1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio"/></a>
+  <a href="https://leetcode.com/abhishek4643"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117" alt="LeetCode"/></a>
+</p>
 
 </div>
 
 ---
 
-<!-- ◈ NOW — CURRENT STATUS ◈ -->
+### ⚡ `ABOUT ME`
 
-<div align="center">
-
-### `🎯 NOW`
-
-</div>
-
-<div align="center">
-
-| | |
-|:---:|:---|
-| 🟢 **Status** | Available for AI/ML internships & research |
-| 🔨 **Building** | Next-gen AI tools for healthcare & robotics |
-| 📚 **Learning** | Transformer architectures · LLMs · MLOps |
-| 🎯 **Mission** | Shipping production-grade AI that actually matters |
-| 📍 **Location** | 🇮🇳 Hyderabad, India |
-
-</div>
+<table align="center">
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li>🎓 <b>Education:</b> Studying Computer Science, focused on AI & ML.</li>
+        <li>💡 <b>Passionate About:</b> Building scalable AI systems, Computer Vision, and full-stack SaaS products.</li>
+        <li>🚀 <b>Currently Building:</b> <a href="https://github.com/abhishek4643/DataPure"><b>DataPure</b></a> — An enterprise-grade data redundancy removal system using FastAPI & React.</li>
+        <li>🎯 <b>Goals:</b> Shipping production-ready AI tools that solve real-world problems.</li>
+        <li>💬 <b>Ask me about:</b> PyTorch, Deep Learning, React, FastAPI, or Hackathon strategies!</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishek4643&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=a1a1aa" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!-- ◈ TECH STACK ◈ -->
+### 🛠️ `TECH STACK`
 
 <div align="center">
 
-### `🛠️ TECH STACK`
+**`AI & Data Science`**<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**— AI · Machine Learning · Computer Vision —**
+**`Web & Backend`**<br/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-[![AI Stack](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,python&theme=dark)](https://skillicons.dev)
-&nbsp;&nbsp;
-![YOLO](https://img.shields.io/badge/YOLO-Ultralytics-00E5FF?style=flat-square&labelColor=0d1117)
-![CNN](https://img.shields.io/badge/CNN-Deep_Learning-FF2D78?style=flat-square&labelColor=0d1117)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=0d1117)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=0d1117)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=0d1117)
-
-**— Web · Frameworks · Deployment —**
-
-[![Web Stack](https://skillicons.dev/icons?i=flask,html,css,flutter&theme=dark)](https://skillicons.dev)
-&nbsp;&nbsp;
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white&labelColor=0d1117)
-![REST API](https://img.shields.io/badge/REST_API-00E5FF?style=flat-square&labelColor=0d1117)
-
-**— Tools · Platforms · Cloud —**
-
-[![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode,mysql,docker,aws&theme=dark)](https://skillicons.dev)
-&nbsp;&nbsp;
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white&labelColor=0d1117)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white&labelColor=0d1117)
-![Nmap](https://img.shields.io/badge/Nmap-Security-00E5FF?style=flat-square&labelColor=0d1117)
+**`Tools & DevOps`**<br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-<!-- ◈ MY PROJECTS ◈ -->
+### 🚀 `FEATURED PROJECTS`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/abhishek4643/DataPure">⚡ DataPure</a></h4>
+      <p>Enterprise data redundancy removal system featuring a two-layer validation pipeline (SHA-256 + RapidFuzz), a live command palette, and a premium React dashboard.</p>
+      <p><code>React</code> <code>FastAPI</code> <code>Supabase</code> <code>Python</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏥 Purva Laksana (Hackathon Winner)</h4>
+      <p>AI Healthcare Companion with multi-disease prediction via Computer Vision and a multilingual NLP chatbot. Deployed on Streamlit Cloud.</p>
+      <p><code>PyTorch</code> <code>OpenCV</code> <code>NLP</code> <code>Streamlit</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎵 Emotion-Based Music Recommender</h4>
+      <p>Real-time facial emotion recognition using a custom CNN (95% accuracy) mapping 7 emotion classes to YouTube music playback.</p>
+      <p><code>CNN</code> <code>Flask</code> <code>OpenCV</code> <code>Deep Learning</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛡️ Automated Network Recon</h4>
+      <p>Modular Bash tool automating comprehensive Nmap reconnaissance with multi-format output and vulnerability scanning.</p>
+      <p><code>Bash</code> <code>Nmap</code> <code>Cybersecurity</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 `HACKATHONS & ACHIEVEMENTS`
 
 <div align="center">
 
-### `🚀 MY PROJECTS`
+| 🏅 | Event | Outcome | Description |
+|:--:|:------|:--------|:------------|
+| 🥇 | **ACUMEN Tech Fest 2026** | **1st & 2nd Prize** | Path Master (1st), Obstacle Smash & Robo Race (2nd) |
+| 🥈 | **MakeX Hackathon 2026** | **Runner-Up** | National-Level AI-powered engineering solution |
+| 🏆 | **Vyoma Hackathon (TechSurge)** | **Winner** | Built *Purva Laksana* AI Healthcare Companion |
+| 🏆 | **HackSavvy-25 National** | **Top Performer** | 24H Hackathon — Built Emotion-Based Music AI |
+| 📊 | **Naukri Campus Young Turks** | **97.03%ile** | India's largest campus skill contest |
 
 </div>
 
-**🏥 Purva Laksana — AI Healthcare Companion**
-&nbsp; ![Jul 2025](https://img.shields.io/badge/Jul_2025-00E5FF?style=flat-square&labelColor=0d1117) ![Winner](https://img.shields.io/badge/🏆_Winner-FFD700?style=flat-square&labelColor=0d1117)
-
-> Vyoma Hackathon · BVRIT · Health & Well-Being
-
-Multi-disease prediction via **CV medical imaging** + heart monitoring + **multilingual NLP chatbot**. Deployed live on Streamlit Cloud.
-
-`PyTorch` · `OpenCV` · `Streamlit` · `NLP`
-
 ---
 
-**🎵 Emotion-Based Music Recommender**
-&nbsp; ![Mar 2025](https://img.shields.io/badge/Mar_2025-00E5FF?style=flat-square&labelColor=0d1117) ![95% Acc](https://img.shields.io/badge/95%25_Accuracy-FF2D78?style=flat-square&labelColor=0d1117)
-
-> HackSavvy-25 National · MGIT · 24H · 200+ Teams
-
-Real-time facial emotion → custom **CNN (95% acc)** across 7 classes → YouTube music playback via Flask.
-
-`Python` · `Flask` · `OpenCV` · `CNN`
-
----
-
-**🛡️ Automated Network Recon — Nmap & Bash**
-&nbsp; ![Mar 2025](https://img.shields.io/badge/Mar_2025-00E5FF?style=flat-square&labelColor=0d1117)
-
-Modular Bash tool automating **Nmap recon** across quick/normal/full modes. Multi-format output, OS detection, service versioning & NSE vulnerability scanning.
-
-`Bash` · `Nmap` · `Linux`
-
----
-
-<!-- ◈ HACKATHONS & ACHIEVEMENTS ◈ -->
+### 📈 `GITHUB ACTIVITY`
 
 <div align="center">
 
-### `🏆 HACKATHONS & ACHIEVEMENTS`
-
-</div>
-
-| 🏅 | Event | Date | Outcome |
-|:--:|:------|:----:|:--------|
-| 🥇 | **ACUMEN Tech Fest 2026** · Vasavi College of Engineering | Apr 2026 | 1st Prize (Path Master) + 2nd Prize (Obstacle Smash & Robo Race) |
-| 🥈 | **MakeX Hackathon 2026** · Mahindra University (AEON) | May 2026 | Runner-Up · National-Level AI-powered engineering solution |
-| 🏆 | **Vyoma Hackathon — TechSurge2k25** · BVRIT | Jul 2025 | Health & Well-Being · Built Purva Laksana AI Healthcare Companion |
-| 🏆 | **HackSavvy-25: National Level** · MGIT | Mar 2025 | 24-Hour Hackathon · Emotion-Based Music Recommendation System |
-| 🛸 | **Bharatiya Antariksh Hackathon 2025** · ISRO × Hack2skill | Jan 2025 | Certificate of Acknowledgement for idea submission |
-| 📊 | **Naukri Campus Young Turks 2025** | Sep 2025 | **97.03 Percentile** — India's largest campus skill contest |
-
----
-
-<!-- ◈ GITHUB STATISTICS ◈ -->
-
-<div align="center">
-
-### `📊 GITHUB STATISTICS`
-
-<!-- Stats Cards -->
-<a href="https://github.com/abhishek4643">
-  <img height="178em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhishek4643&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=FF2D78&text_color=cceeff"/>
-  <img height="178em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishek4643&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=cceeff"/>
-</a>
-
-<br/><br/>
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=abhishek4643&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00E5FF&fire=FF2D78&currStreakNum=cceeff&sideNums=cceeff&currStreakLabel=00E5FF&sideLabels=FF2D78&dates=666666" alt="GitHub Streak"/>
-
-<br/><br/>
+<!-- Stats and Streak -->
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhishek4643&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=ec4899&text_color=a1a1aa" height="160" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=abhishek4643&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=6366f1&fire=ec4899&currStreakLabel=6366f1&sideLabels=ec4899&currStreakNum=a1a1aa&sideNums=a1a1aa&dates=8b949e" height="160" alt="GitHub Streak" />
+</p>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek4643&bg_color=0d1117&color=00E5FF&line=FF2D78&point=ffffff&area=true&area_color=00E5FF&hide_border=true&custom_title=Contribution+Activity+Graph&radius=8" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek4643&bg_color=0d1117&color=6366f1&line=ec4899&point=ffffff&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution+Activity+Graph&radius=8" width="100%" alt="Activity Graph"/>
 
-<br/><br/>
-
-
-
-
-
-<!-- ◈ SNAKE CONTRIBUTION ANIMATION ◈ -->
-
+<!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/abhishek4643/abhishek4643/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/abhishek4643/abhishek4643/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" width="100%"
-       src="https://raw.githubusercontent.com/abhishek4643/abhishek4643/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishek4643/abhishek4643/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishek4643/abhishek4643/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake" width="100%" src="https://raw.githubusercontent.com/abhishek4643/abhishek4643/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
 
 ---
 
-<!-- ◈ CONNECT ◈ -->
-
 <div align="center">
-
-### `🤝 LET'S CONNECT`
-
-*Open to internships · AI/ML collaborations · Hackathon teams*
-
-<br/>
-
-[![Email](https://img.shields.io/badge/Email-abhishekp.perumalla%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:abhishekp.perumalla@gmail.com)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-00E5FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=00E5FF)](https://portfolio-three-omega-ahkmg9l6l4.vercel.app/)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/abhishek-perumalla-a1ab57251)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0a1628,100:0d1117&height=120&section=footer&text=Let%27s+build+the+future+together+%F0%9F%9A%80&fontSize=14&fontColor=FF2D78&fontAlignY=65&animation=fadeIn" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:0a1628,100:0d1117&height=120&section=footer&text=Let's%20Build%20Something%20Amazing%20Together%20%F0%9F%9A%80&fontSize=16&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%"/>
 </div>
