@@ -39,7 +39,6 @@
 I'm an AI/ML Engineer from Hyderabad, India who obsesses over the intersection of **Computer Vision**, **Deep Learning**, and **production-grade backend systems**. I don't just prototype — I build things that deploy.
 
 - Studying **B.Tech Computer Science** with a specialization in AI & ML
-- Currently building **[DataPure](https://github.com/abhishek4643/DataPure)** — an enterprise data de-duplication engine using SHA-256 + RapidFuzz fuzzy matching, with a premium React dashboard
 - Won **3 Hackathons** building real AI tools under 24-hour time constraints
 - Scored in the **97th percentile** nationally in Naukri Campus Young Turks 2025
 - Available for **AI/ML internships** and research collaborations
@@ -79,19 +78,7 @@ I'm an AI/ML Engineer from Hyderabad, India who obsesses over the intersection o
 <table>
 <tr>
 <td width="50%" valign="top" style="padding: 16px;">
-
-### [DataPure — Data Redundancy Engine](https://github.com/abhishek4643/DataPure)
-
-A **production-ready** full-stack system that prevents duplicate data from entering your PostgreSQL database using a **two-layer pipeline**: SHA-256 exact hashing + RapidFuzz semantic fuzzy matching. Features a premium React dashboard with a live command palette search, real-time stats, and a review queue for near-duplicate records.
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-<td width="50%" valign="top" style="padding: 16px;">
-
+  
 ### Purva Laksana — AI Healthcare Companion
 
 **Hackathon Winner** at Vyoma TechSurge 2025. A multi-disease prediction system using Computer Vision medical imaging + real-time heart rate monitoring + a multilingual NLP chatbot. Deployed live on Streamlit Cloud.
