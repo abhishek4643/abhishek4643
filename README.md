@@ -83,23 +83,38 @@ I'm an AI/ML Engineer from Hyderabad, India who obsesses over the intersection o
 
 **Hackathon Winner** at Vyoma TechSurge 2025. A multi-disease prediction system using Computer Vision medical imaging + real-time heart rate monitoring + a multilingual NLP chatbot. Deployed live on Streamlit Cloud.
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-multilingual-8B5CF6?style=flat-square)
+<br/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-multilingual-8B5CF6?style=flat-square" />
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top" style="padding: 16px;">
 
 ### Emotion-Based Music Recommender
 
 Built during **HackSavvy-25 National** (24H, 200+ teams). Custom CNN trained to classify 7 facial emotion states with **95% accuracy**. Maps detected emotion to a real-time YouTube music queue via Flask API.
 
-![CNN](https://img.shields.io/badge/Custom_CNN-95%25_Acc-EC4899?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+<br/>
+<img src="https://img.shields.io/badge/Custom_CNN-95%25_Acc-EC4899?style=flat-square" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="padding: 16px;">
+
+### Vegpass — AI Transit Platform
+
+A cloud-native smart transit platform. Features a responsive React interface for offline-ready digital tickets, powered by a FastAPI backend. Integrates a custom **Scikit-Learn Machine Learning** model for dynamic demand-based pricing.
+
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
 </td>
 <td width="50%" valign="top" style="padding: 16px;">
@@ -108,9 +123,10 @@ Built during **HackSavvy-25 National** (24H, 200+ teams). Custom CNN trained to 
 
 Modular Bash toolkit that automates Nmap across **quick / normal / full** scan modes. Supports OS fingerprinting, service versioning, NSE vulnerability scanning, and outputs structured multi-format reports.
 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-Security-0EA5E9?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<br/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-Security-0EA5E9?style=flat-square" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 
 </td>
 </tr>
