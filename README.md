@@ -151,7 +151,7 @@ Modular Bash toolkit that automates Nmap across **quick / normal / full** scan m
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhishek4643&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=ec4899&text_color=9ca3af&include_all_commits=true" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abhishek4643&show_icons=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=ec4899&text_color=9ca3af" height="170" alt="GitHub Stats"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek4643&layout=compact&langs_count=7&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=9ca3af" height="170" alt="Top Languages"/>
 
